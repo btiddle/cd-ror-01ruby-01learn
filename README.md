@@ -1,6 +1,6 @@
 |     Project | Information                                       |
 |------------:|:--------------------------------------------------|
-| Domain:     | Coding Dojo (cd)                                  |
+| Domain:     | [Coding Dojo](http://codingdojo.com) (cd)         |
 | Topic:      | Ruby on Rails (ror), Understanding Ruby (01ruby)  |
 | Assignment: | Learning Ruby (01learn)                           |
 | Repository: | cd-ror-01ruby-01learn                             |
