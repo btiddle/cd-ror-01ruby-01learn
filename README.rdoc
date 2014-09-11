@@ -1,9 +1,7 @@
-| | |
-|:---------------|:-------------------|
-|**Domain** | Coding Dojo (cd)|
-|**Areas of Study** | Ruby on Rails (ror)<br> Understanding Ruby (01ruby)|
-|**Assignment**| Learning Ruby (01learn)|
-|**Repository** | cd-ror-01ruby-01learn |
+<b>Domain</b>     :: Coding Dojo (cd)
+<b>Topic</b>      :: Ruby on Rails (ror), Understanding Ruby (01ruby)
+<b>Assignment</b> :: Learning Ruby (01learn)
+<b>Repository</b> :: cd-ror-01ruby-01learn
 
 - Code for each example in lessons
  - ex-01-syntax.rb
