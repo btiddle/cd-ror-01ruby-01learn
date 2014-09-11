@@ -1,9 +1,11 @@
-<b>Domain</b>     :: Coding Dojo (cd)
-<b>Topic</b>      :: Ruby on Rails (ror), Understanding Ruby (01ruby)
-<b>Assignment</b> :: Learning Ruby (01learn)
-<b>Repository</b> :: cd-ror-01ruby-01learn
+|     Project | Information                                       |
+|------------:|:--------------------------------------------------|
+| Domain:     | Coding Dojo (cd)                                  |
+| Topic:      | Ruby on Rails (ror), Understanding Ruby (01ruby)  |
+| Assignment: | Learning Ruby (01learn)                           |
+| Repository: | cd-ror-01ruby-01learn                             |
 
-Code included for each example in lessons
+## Source code for each lesson example
 - ex-01-syntax.rb
 - ex-02-puts.rb
 - ex-03-var-and-class.rb
@@ -20,7 +22,8 @@ Code included for each example in lessons
 - ex-13-attr-accessor-02.rb
 - ex-14-kernel.rb
 - ex-15-var-len-args.rb
-Code included for each assignment
+
+## Source code for each assignment
 - asgn-01-tryruby-A-intro.rb
 - asgn-01-tryruby-B-books.rb
 - asgn-01-tryruby-C-misch.rb
